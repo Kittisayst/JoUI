@@ -17,3 +17,4 @@ Custom Java Swing UI
 1. Create new Palette Category : JoUI
 2. add Component
 ***
+![joui](https://github.com/Kittisayst/JoUI/blob/main/joui2.gif)
